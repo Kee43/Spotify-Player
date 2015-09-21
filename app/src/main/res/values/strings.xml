@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My App Portfolio</string>
+    <string name="hello_world">Hello world!</string>
+
+        <string name="my_title">My Nanodegree Apps!</string>
+        <string name="media_streamer">SPOTIFY STREAMER</string>
+        <string name="super_duo1">SCORES APP</string>
+        <string name="super_duo2">LIBRARY APP</string>
+        <string name="ant_terminator">BUILD IT BIGGER</string>
+        <string name="materialize">XYZ READER</string>
+        <string name="capstone">CAPSTONE: MY OWN APP</string>
+
+        <string name="title_activity_spotify_streamer_search">Spotify Streamer</string>
+        <string name="action_settings">Settings</string>
+        <string name="title_activity_select_song">Select Song</string>
+        <string name="search_for_artist">Search for an artist ...</string>
+        <string name="no_songs_found">No songs found.</string>
+        <string name="no_artists_found">No artists found.</string>
+        <string name="no_internet">No internet connection detected. Please try again.</string>
+
+        <string name="title_activity_play_song">Track Player</string>
+        <string name="end_of_list">End of the list.</string>
+</resources>

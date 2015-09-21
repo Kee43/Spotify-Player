@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Nanodegree\MyPortfolioApp\app\libs\okio-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\okio-1.4.0-18924e790e8a49ff5dc310dbf452c2eb32ae5f3e.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\MyPortfolioApp\app\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-c063332100d9045a2d28dc3c634176fecafb9635.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\classes-e1d9fd9eba3c0f27075a6bb73d5ca1e76cad9e38.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\classes-8f5a69705f61c5f15378bed2982d5ca9e2974811.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\MyPortfolioApp\app\libs\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\gson-2.3.1-bd3cd27fbc72770e261cb4aacc2b5ce7db465d38.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\MyPortfolioApp\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-fe336600aa2bfd1c0bf1a4818222db42df48dffa.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\MyPortfolioApp\app\libs\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-879abf33dd6c7b57748cbf7de8f33d51e1cad95e.jar" />
+    </item>
+    <item
+        jar="H:\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-be8aca48777739eab06e5f61173186e4d573eba6.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\MyPortfolioApp\app\libs\spotify-web-api-android-0.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="873c33091ab4eea75a4168604b97043ffc680033">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\spotify-web-api-android-0.1.0-d7d76c4d5c5d1da3c18a3ac1459e9fc1f2329776.jar" />
+    </item>
+    <item
+        jar="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Nanodegree\MyPortfolioApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c825109aa11bd714168e13343e9535c2548b0421.jar" />
+    </item>
+
+</items>

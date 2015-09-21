@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kieranflay.myportfolioapp.spotifystreamer.searchartist.SearchArtistActivity"
+    tools:ignore="MergeRootFrame"
+    android:id="@+id/spotifySearchFragment"
+    android:orientation="horizontal">
+
+<fragment
+android:id="@+id/fragment_search_artist"
+android:name="com.kieranflay.myportfolioapp.spotifystreamer.searchartist.SearchArtistFragment"
+android:layout_width="@dimen/two_pane_width_dimen"
+android:layout_height="match_parent"
+android:layout_weight="2"
+tools:layout="@android:layout/list_content" />
+
+
+<FrameLayout
+    android:id="@+id/select_song_container"
+android:layout_width="@dimen/two_pane_width_dimen"
+android:layout_height="match_parent"
+android:layout_weight="3" />
+
+</LinearLayout>
